@@ -1,0 +1,14 @@
+{
+  "version": "2026.10.29.0247",
+  "published_at": "2026-10-29 02:47:54",
+  "bundle_size_mb": 14.1,
+  "files": [
+    "segment_profiles.db",
+    "network_edges.json",
+    "stops.json",
+    "stop_lines.json",
+    "line_calendar.json",
+    "metro_stops.json",
+    "terminal_layovers.json"
+  ]
+}
