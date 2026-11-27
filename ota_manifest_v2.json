@@ -1,0 +1,12 @@
+{
+  "files": {
+    "line_calendar.json": "a197ef89a0fb4b8f66c7a9d43adfd5f4fb8d868797494cdb3d3a038f843cc8c0",
+    "metro_stops.json": "bd0c68cba4e5186691003576986f44a30c1de896dffa538aaf2a79124fe0f6e9",
+    "network_edges.json.gz": "0e688cbee85c8d0757c3647e0b756ba222360740db833477044779ce7cc5f44b",
+    "segment_profiles.wprof": "80da02673fcfff1400d46bdacae037d5e250e132873793d13c29890c487000ec",
+    "stop_lines.json": "9e6c327cc49cc95eaca37a12b8f6bb62186c881978b76f88657bec51dc0dee1c",
+    "stops.json": "0f171abc4aa2fab41fe805c6a7171bdaf634275d2207263d39d9fda46b9f9d53",
+    "terminal_layovers.json": "314d18f8ee69b22e4954dde6c0314abedfef8d5a66c6b7fafbfb5097b810f64f"
+  },
+  "version": "2026.11.27.2323"
+}
